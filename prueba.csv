@@ -1,0 +1,12 @@
+,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,IMPUESTOS,Unnamed: 9,Valor de Venta
+0,Nro.,Código,Descripción,U/M,Cantidad,Precio Unitario,Descuento,Recargo,IVA,INC,Bolsa,por Item
+1,,,,,,,,,"$ 319.874,58",,,
+2,,,Gasolina Corriente Oxigenada,,,,,,,,,$
+3,1,15101506,,GLL,"1.200,00","$ 6.278,99",,,,,,
+4,,,10%,,,,,,,,,"7.534.784,40"
+5,,,,,,,,,19.00 5.00 %,,,
+6,,,,,,,,,"$ 552.830,70",,,
+7,,,,,,,,,,,,$
+8,2,15101505,Bioacem 10%,GLL,"2.000,00","$ 7.062,84",,,,,,
+9,,,,,,,,,,,,"14.125.679,20"
+10,,,,,,,,,19.00 5.00 %,,,
